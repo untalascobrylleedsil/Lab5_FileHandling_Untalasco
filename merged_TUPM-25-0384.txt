@@ -1,0 +1,5 @@
+Welcome Brylle Edsil F. Untalasco (ID: TUPM-25-0384) to File Handling in Python!
+This line was added!
+3: LINE 3
+2: LINE 2
+1: LINE 1
